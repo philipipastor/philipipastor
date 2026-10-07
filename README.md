@@ -56,7 +56,7 @@ Atualmente busco minha primeira oportunidade profissional na área de desenvolvi
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Philipi%20Pastor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/philipi-pastor-a24a0824a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Philipi%20Pastor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipi-pastor)
 
 [![GitHub](https://img.shields.io/badge/GitHub-philipipastor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/philipipastor)
 
